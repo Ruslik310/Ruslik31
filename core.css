@@ -258,10 +258,10 @@ The 2 items above are not owned by me, They go to there respected owners
 
 	/*Server Members*/
 	#app-mount .member-3-YXUe .layout-2DM8Md {
-		margin-left: 30px;
+		margin-left: 25px;
 		transition: margin-left 0.2s;
 		transition-timing-function: ease-in-out;
-		border-radius: 10px;
+		border-radius: 8px;
 	}
 	#app-mount .layout-2DM8Md:hover { margin-left: 8px; background-color: var(--secondary1-colour);}
 	#app-mount .selected-aXhQR6 .layout-2DM8Md { margin-left: 8px; background-color: var(--secondary2-colour);}
